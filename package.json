@@ -1,0 +1,18 @@
+{
+  "name": "muumcafe",
+  "version": "1.0.0",
+  "description": "Café Muumik, where recipes come to life",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.21.2"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.9"
+  }
+}
